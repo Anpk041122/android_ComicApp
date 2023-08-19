@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Comic Word</string>
+
+    // Login
+    <string name="text_login_app_name">Thế Giới Truyện Tranh</string>
+    <string name="text_login_logan">Chào mừng bạn đến với</string>
+    <string name="text_login_button">Đăng nhập</string>
+    <string name="cotent_description">Logo</string>
+    // Repository message
+    <string name="error_story_not_found">Không tìm thấy truyện</string>
+    <string name="error_getting_story">Lôi khi tìm truyện : </string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+
+    //Top app bar text
+    // icon
+    <string name="text_nav_bottom">Trang chủ</string>
+    <string name="content_description_menu">Menu</string>
+    <string name="content_description_favorite">Favorite</string>
+    <string name="content_description_search">Search</string>
+    <string name="content_description_title">Title</string>
+
+    <string name="menu">menu</string>
+    <string name="favorite">favorite</string>
+    <string name="search">search</string>
+    <string name="title">Trang chủ</string>
+
+    // FirebaseUI Custom
+</resources>
